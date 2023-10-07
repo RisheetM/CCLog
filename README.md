@@ -1,2 +1,3 @@
 # CCLog
-A compilation of all the Codes I have written while practicing DSA and CC
+A compilation of all of my revision for DSA and CC for Placeement preperation
+
