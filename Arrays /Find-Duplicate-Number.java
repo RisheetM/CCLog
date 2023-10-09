@@ -12,6 +12,8 @@ class Solution {
 }
 }
 
+
+
 //Solution 2
 class Solution {
     public int findDuplicate(int[] nums) {
